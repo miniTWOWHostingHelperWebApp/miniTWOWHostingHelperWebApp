@@ -1,7 +1,7 @@
 # miniTWOWHostingHelperWebApp
 I hope this tool will help you with hosting your miniTWOW easier.
 
-#Request Definition
+# Request Definition
 This section is just for editors. This section says what fuctions this tool have.
 
 0. Two functions. One is to collect responses and generate voting screens. The other one is to collect voting screens and votes to calculate the result.
