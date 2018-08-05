@@ -1,4 +1,4 @@
-# miniTWOWHostingHelperWebApp
+# miniTWOWHostingTool
 I hope this tool will help you with hosting your miniTWOW easier.
 
 # Request Definition
@@ -19,3 +19,6 @@ This section is just for editors. This section says what fuctions this tool have
 		2. only the higher one will be counted
 		3. only the lower one will be counted
 		4. the character will be last place
+
+# To visitors
+**I am really, really new to GitHub, so can anyone help me with realising this tool?**
